@@ -1,6 +1,6 @@
 # README-
 <h1 align="center">Hi, I'm Mohamed Khaled 👋</h1>
-<h3 align="center">Front-End & Software Developer 💻 | UI/UX Designer 🎨 | AI & Cybersecurity Explorer 🔐</h3>
+<h3 align="center">Front-End & Software Developer 💻 | Designer 🎨 | AI & Cybersecurity Explorer 🔐</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohamed-khaled"><img src="https://img.shields.io/badge/Mohamed%20Khaled-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
